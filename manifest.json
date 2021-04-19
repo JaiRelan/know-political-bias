@@ -12,7 +12,6 @@
         "128" : "icon.png"
     },
     "permissions": [
-        "notifications",
         "activeTab"
     ],
     "browser_action": {}
