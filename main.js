@@ -208,7 +208,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
             "https://pjmedia.com": ["centre-right", "PJ Media"],
             "https://www.politico.com": ["centre-left", "Politico"],
             "https://www.politicususa.com": ["left", "PoliticusUSA"],
-            "https://www.politisect.com": ["", "Politisect"],
+            "https://www.politisect.com": ["centre", "Politisect"],
             "https://www.politifact.com": ["centre-left", "PolitiFact"],
             "https://www.pressherald.com": ["centre", "Portland Press Herald"],
             "https://www.prageru.com": ["right", "Prager University"],
