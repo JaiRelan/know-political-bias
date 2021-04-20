@@ -1,7 +1,5 @@
 ## Welcome to Know-Your-Bias
 
-![Polisect Logo](https://github.com/JaiRelan/know-your-bias/blob/documentation/icon.png)
-
 
 ### **Know Your Bias** is a simple Chrome extension which helps you understand the bias behind the websites you source your news from. 
 
