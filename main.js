@@ -52,7 +52,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
 
         if (known_url == true){
             var bias_val = bias[origin]
-            alert(origin + " is known to be an organisation with views leaning towards the " + bias_val)
+            alert(origin + " is known to hold views falling on the" + bias_val + " of the political bias spectrum. ")
         }
         else if (known_url == false){
             alert("Sorry, but we haven't been able to conclude the bias on " + origin)
